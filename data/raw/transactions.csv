@@ -1,0 +1,13 @@
+transaction_id,transaction_date,employee_id,vendor,amount,currency,department,payment_method
+TX1001,2026-01-05,E001,Northwind Supplies,245.50,USD,IT,Card
+TX1002,2026-01-06,E002,Bluebird Office,1290.00,USD,Finance,ACH
+TX1002,2026-01-06,E002,Bluebird Office,1290.00,USD,Finance,ACH
+TX1003,2026-01-08,E003,Maple Travel,845.75,USD,Sales,Card
+TX1004,2026-01-10,E001,Northwind Supplies,74250.00,USD,IT,Wire
+TX1005,2026-01-12,E004,,560.00,USD,Operations,Card
+TX1006,2026-01-14,E002,Bluebird Office,318.20,USD,Finance,ACH
+TX1007,2026-01-16,E005,Harbor Consulting,12000.00,USD,IT,Wire
+TX1008,2026-01-18,E003,Maple Travel,95.00,USD,Sales,Card
+TX1009,2026-01-20,E004,Greenfield Services,2100.00,USD,Operations,ACH
+TX1010,2026-01-22,E006,Harbor Consulting,18500.00,USD,IT,Wire
+TX1011,2026-01-24,E005,Greenfield Services,0.00,USD,Operations,Card
